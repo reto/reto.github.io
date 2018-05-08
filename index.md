@@ -48,3 +48,4 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
   * [Python(x,y)](https://python-xy.github.io/) Python for scientists, including an IDE
   * [PyCharm](https://www.jetbrains.com/pycharm/) Jetbrains Python IDE (*not free*)
 * [Eclipse](https://www.eclipse.org/) Java IDE
+* [XML Plugin for Notepad++](https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/) With schema validation on save/demand
