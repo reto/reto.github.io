@@ -10,10 +10,10 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
   * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
 ### FileSync/CloudSpace
-* [Dropbox]()
-* [Dropbox]()
-* [Dropbox]()
-* [Dropbox]()
+* [Dropbox](https://www.dropbox.com)
+* [GoogleDrive](https://g.co/BackupAndSyncDrive)
+* [Tresorit](https://tresorit.com/)
+* [SpiderOak](https://spideroak.com/)
 
 ### Security
 * [Putty Suite](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) SSH client
@@ -41,4 +41,3 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 * [Python](https://www.python.org/) Python interpreter
   * [Python(x,y)](https://python-xy.github.io/) Python for scientists, including an IDE
 * [Eclipse](https://www.eclipse.org/) Java IDE
-* 
