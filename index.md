@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Welcome to my Github page
 
-You can use the [editor on GitHub](https://github.com/reto/reto.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## (Mainly free) Windows tools collection
+Whenever I set up a new PC I need some tools to install. Often I forget one or two. Therefore I created this page. It is mainly for myself. But if it useful to you as well, then it is even better!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Internet
+* [Chrome](https://www.google.com/chrome/)
+  * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+* [Firefox](https://www.mozilla.org/en-US/firefox/)
+  * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-### Markdown
+### FileSync/CloudSpace
+* [Dropbox]()
+* [Dropbox]()
+* [Dropbox]()
+* [Dropbox]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Security
+* [Putty Suite](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) SSH client
+* [Winscp](https://winscp.net/eng/download.php) SCP/SFTP/FTP client (works well with Keepass/KeeAgent)
+* [Keepass](https://keepass.info/) Password manager
+  * [KeeAgent](https://lechnology.com/software/keeagent/) Keepass SSH Agent, serves SSH-Keys stored in keypass to putty & winscp
 
-```markdown
-Syntax highlighted code block
+### Audio/Video
+* [VLC](https://www.videolan.org/) Video Player with extensive format support
+* [Audacity](https://www.audacityteam.org/) Free sound editor
+* [Open Broadcast Software](https://obsproject.com/) Screen recorder (focus on live uploading for gamers, but works very well for normal screen redording as well).
 
-# Header 1
-## Header 2
-### Header 3
+### Imaging
+* [IrfanView](https://www.irfanview.com/) Fast image viewer, also great for batch processing
+* [Inkscape](https://inkscape.org/)  Open Source vector graphics editor (think InDesign, but free)
 
-- Bulleted
-- List
+### Desktop / Productivity
+* [Greenshot](http://getgreenshot.org/) Screenshot utility
+* [Everything](https://www.voidtools.com/) Index file search
+* [LibreOffice](https://www.libreoffice.org/) Open source Office Suite (Word processor, Spreadsheet, Presentation tool, ...)
+* [Notepad++](https://notepad-plus-plus.org/) Great text file editor
+* [Kdiff3](http://kdiff3.sourceforge.net/) Diff viewer (3-way capable). With recursive directory compare
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reto/reto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Development
+* [Python](https://www.python.org/) Python interpreter
+  * [Python(x,y)](https://python-xy.github.io/) Python for scientists, including an IDE
+* [Eclipse](https://www.eclipse.org/) Java IDE
+* 
