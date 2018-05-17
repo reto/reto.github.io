@@ -33,7 +33,8 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 * [IrfanView](https://www.irfanview.com/) Fast image viewer, also great for batch processing
 * [Inkscape](https://inkscape.org/)  Open Source vector graphics editor (think InDesign, but free)
 * [Paint.net](https://www.getpaint.net/) Pixel-based image editing. Somewhere between Photoshop and MS Paint
-* 
+* [GIMP](https://www.gimp.org/downloads/) GNU Image Manipulation Program - alternative to Photoshop
+* [RawTherapee](http://rawtherapee.com/downloads) Free RAW image editor - alternative to Lightroom
 
 ### Desktop / Productivity
 * [Greenshot](http://getgreenshot.org/) Screenshot utility
