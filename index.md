@@ -32,6 +32,8 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 ### Imaging
 * [IrfanView](https://www.irfanview.com/) Fast image viewer, also great for batch processing
 * [Inkscape](https://inkscape.org/)  Open Source vector graphics editor (think InDesign, but free)
+* [Paint.net](https://www.getpaint.net/) Pixel-based image editing. Somewhere between Photoshop and MS Paint
+* 
 
 ### Desktop / Productivity
 * [Greenshot](http://getgreenshot.org/) Screenshot utility
@@ -49,5 +51,9 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
   * [Python(x,y)](https://python-xy.github.io/) Python for scientists, including an IDE
   * [PyCharm](https://www.jetbrains.com/pycharm/) Jetbrains Python IDE (*not free*)
 * [Eclipse](https://www.eclipse.org/) Java IDE
-* [XML Notepad](https://github.com/Microsoft/XmlNotepad/wiki) XML Editor 
+* [XML Notepad](https://github.com/Microsoft/XmlNotepad/wiki) XML Editor
+
+### Sysadmin Tools
+* [KeyStore Explorer](http://keystore-explorer.org/)  A GUI replacement for keytool and jarsigner
+* [Win32OpenSSL](https://slproweb.com/products/Win32OpenSSL.html) OpenSSL for Windows (also 64bit available)
 
