@@ -47,6 +47,7 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 ### Development
 * [Github Desktop](https://desktop.github.com/) Github Desktop client
 * [TortoiseHG](https://tortoisehg.bitbucket.io/) Mercurial Windows client (comes with kdiff3 (3-way diff tool))
+* [TortoiseGit](https://tortoisegit.org/download/) Git Windows client
 * [TortoiseSVN](https://tortoisesvn.net/) Subversion Windows client (comes with TortoiseMerge (2-way diff tool)
 * [Python](https://www.python.org/) Python interpreter
   * [Python(x,y)](https://python-xy.github.io/) Python for scientists, including an IDE
