@@ -49,4 +49,5 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
   * [Python(x,y)](https://python-xy.github.io/) Python for scientists, including an IDE
   * [PyCharm](https://www.jetbrains.com/pycharm/) Jetbrains Python IDE (*not free*)
 * [Eclipse](https://www.eclipse.org/) Java IDE
+* [XML Notepad](https://github.com/Microsoft/XmlNotepad/wiki) XML Editor 
 
