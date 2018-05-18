@@ -44,7 +44,7 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 * [LibreOffice](https://www.libreoffice.org/) Open source Office Suite (Word processor, Spreadsheet, Presentation tool, ...)
 * [Notepad++](https://notepad-plus-plus.org/) Great text file editor
   * [XML Plugin for Notepad++](https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/) With schema validation on save/demand
-* [Kdiff3](http://kdiff3.sourceforge.net/) Diff viewer (3-way capable). With recursive directory compare
+* [Kdiff3](http://kdiff3.sourceforge.net/) File/Directory comparison too. Diff viewer (3-way capable). With recursive directory compare
 * [PDFCreator](http://download.pdfforge.org/download/pdfcreator/PDFCreator-stable) Free PDF Creator (Warning: Make sure you disable all the additional software the installer tries to install. E.g. PDFArchitect and what not...)
 
 ### Development
