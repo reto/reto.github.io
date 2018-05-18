@@ -30,7 +30,7 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 * [Open Broadcast Software](https://obsproject.com/) Screen recorder (focus on live uploading for gamers, but works very well for normal screen redording too).
 
 ### Imaging
-* [IrfanView](https://www.irfanview.com/) Fast image viewer, also great for batch processing
+* [IrfanView](https://www.irfanview.com/) Fast image viewer, also great for batch processing (scaling, conversion, ...)
 * [Inkscape](https://inkscape.org/)  Open Source vector graphics editor (think InDesign, but free)
 * [Paint.net](https://www.getpaint.net/) Pixel-based image editing. Somewhere between Photoshop and MS Paint
 * [GIMP](https://www.gimp.org/downloads/) GNU Image Manipulation Program - alternative to Photoshop
