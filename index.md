@@ -6,7 +6,7 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 ### Internet/Messenger
 * [Chrome](https://www.google.com/chrome/) Google's Browser
   * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) Ad- and tracking-blocker plugin for Chrome
-* [Firefox](https://www.mozilla.org/en-US/firefox/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/) Mozilla's browser
   * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) Ad- and tracking-blocker plugin for Firefox
 * [Skype](https://www.skype.com/en/get-skype/) Internet telephony
 * [Slack](https://slack.com/downloads/windows) Group messenger
