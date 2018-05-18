@@ -27,7 +27,7 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 ### Audio/Video
 * [VLC](https://www.videolan.org/) Video Player with extensive format support
 * [Audacity](https://www.audacityteam.org/) Free sound editor
-* [Open Broadcast Software](https://obsproject.com/) Screen recorder (focus on live uploading for gamers, but works very well for normal screen redording as well).
+* [Open Broadcast Software](https://obsproject.com/) Screen recorder (focus on live uploading for gamers, but works very well for normal screen redording too).
 
 ### Imaging
 * [IrfanView](https://www.irfanview.com/) Fast image viewer, also great for batch processing
