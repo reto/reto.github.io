@@ -26,6 +26,7 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 
 ### Audio/Video
 * [VLC](https://www.videolan.org/) Video Player with extensive format support
+* [EqualizerAPO](https://sourceforge.net/projects/equalizerapo/) Equalizer for Windows with advanced support for channel mixing/copying.
 * [Audacity](https://www.audacityteam.org/) Free sound editor
 * [Open Broadcast Software](https://obsproject.com/) Screen recorder (focus on live uploading for gamers, but works very well for normal screen redording too).
 
