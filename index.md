@@ -64,6 +64,7 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 * [KeyStore Explorer](http://keystore-explorer.org/)  A GUI replacement for keytool and jarsigner
 * [Win32OpenSSL](https://slproweb.com/products/Win32OpenSSL.html) OpenSSL for Windows (also 64bit available)
 * [TreeSize Free](https://www.jam-software.com/treesize_free/) Analyze where your disk space has gone
+* [USB Tree View](https://www.uwe-sieber.de/usbtreeview_e.html) USB Device Tree Viewer with lots of low-level USB information
 
 ### Research & Science
 * [JabRef](http://www.jabref.org/) Open source bibliography reference manager
