@@ -195,9 +195,6 @@ Follow the installation here:
 https://starship.rs
 
 
-Install fish using ppa-launchpad
-https://fishshell.com
-
 ## On Windows
 ```
 choco install starship -y
@@ -209,6 +206,18 @@ In powershell you need to set the font manually.
 In putty you need to set the font manually and safe as default!
 
 ## On Linux
-Install
+Install fish using ppa-launchpad
+https://fishshell.com
 DejaVuSansMono or firacode `apt install fonts-firacode`
+```
+add-apt-repository ppa:fish-shell/release-4
+apt update
+apt install fish
+```
+edit `~/.bashrc`
+at the very end add a line `fish`
+(I like this approach so that all the scripts that do not specify a shell will still launch with the system default shell sh or bash and not with fish).
 
+Install starship using
+```curl -sS https://starship.rs/install.sh | sh```
+This is also how to to update
