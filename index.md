@@ -205,6 +205,10 @@ Make sure you have the choco package `nerd-fonts-DejaVuSansMono` installed. (It 
 In powershell you need to set the font manually.
 In putty you need to set the font manually and safe as default!
 
+For starhip in cmd.exe see this
+https://chrisant996.github.io/clink
+https://chrisant996.github.io/clink/clink.html#starship
+
 ## On Linux
 Install fish using ppa-launchpad
 https://fishshell.com
