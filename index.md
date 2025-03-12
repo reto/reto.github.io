@@ -213,14 +213,11 @@ DejaVuSansMono or firacode `apt install fonts-firacode`
 add-apt-repository ppa:fish-shell/release-4
 apt update
 apt install fish
+echo 'fish' >>  ~/.bashrc
+fish
 ```
 
-```
-nano ~/.bashrc
-```
-
-at the very end add a line `fish`
-(I like this approach so that all the scripts that do not specify a shell will still launch with the system default shell sh or bash and not with fish).
+(I like this approach (loading fish on top of bash) so that all the scripts that do not specify a shell will still launch with the system default shell sh or bash and not with fish).
 
 Install starship using
 
