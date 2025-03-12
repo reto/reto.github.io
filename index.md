@@ -221,3 +221,5 @@ at the very end add a line `fish`
 Install starship using
 ```curl -sS https://starship.rs/install.sh | sh```
 This is also how to to update
+
+At the end of the file ```~/.config/fish/config.fish``` add the following oneliner: ```starship init fish | source```.
