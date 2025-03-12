@@ -215,21 +215,29 @@ apt update
 apt install fish
 ```
 
-```nano ~/.bashrc```
+```
+nano ~/.bashrc
+```
 
 at the very end add a line `fish`
 (I like this approach so that all the scripts that do not specify a shell will still launch with the system default shell sh or bash and not with fish).
 
 Install starship using
 
-```curl -sS https://starship.rs/install.sh | sh```
+```
+curl -sS https://starship.rs/install.sh | sh
+```
 
 This is also how to to update
 
 Inside the interactive block of the file 
 
-```nano ~/.config/fish/config.fish```
+```
+nano ~/.config/fish/config.fish
+```
 
 add the following oneliner:
 
-```starship init fish | source```.
+```
+starship init fish | source
+```
