@@ -217,7 +217,7 @@ DejaVuSansMono or firacode `apt install fonts-firacode`
 add-apt-repository ppa:fish-shell/release-4
 apt update
 apt install fish
-echo 'fish' >>  ~/.bashrc
+echo 'exec fish' >>  ~/.bashrc
 fish
 ```
 
