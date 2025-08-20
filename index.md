@@ -92,6 +92,7 @@ Load it like this: `choco install packages.config`
   <package id="chocolatey-font-helpers.extension" />
   <package id="chocolateygui" />
   <package id="chocolatey-windowsupdate.extension" />
+  <package id="clink-maintgained" />
   <package id="cpu-z" />
   <package id="cpu-z.install" />
   <package id="DotNet4.6.1" />
@@ -208,6 +209,10 @@ In putty you need to set the font manually and safe as default!
 For starhip in cmd.exe see this
 https://chrisant996.github.io/clink
 https://chrisant996.github.io/clink/clink.html#starship
+
+```
+choco install clink-maintained
+````
 
 ## On Linux
 Install fish using ppa-launchpad
