@@ -75,58 +75,7 @@ Whenever I set up a new PC I need some tools to install. Often I forget one or t
 https://docs.chocolatey.org/en-us/choco/setup/
 
 ```
-choco install 7zip ^
-anytype ^
-autohotkey ^
-bind-toolsonly ^
-chocolatey ^
-chocolateygui ^
-clink-maintgained ^
-cpu-z ^
-em-client ^
-Everything ^
-FiraCode ^
-Firefox ^
-git ^
-github-desktop ^
-GoogleChrome ^
-googledrive ^
-googleearthpro ^
-greenshot ^
-InkScape ^
-irfanview ^
-irfanviewplugins ^
-josm ^
-keepass ^
-keepass-plugin-keeagent ^
-keepass-plugin-keeautoexec ^
-keepass-plugin-keeotp2 ^
-keystore-explorer
-nerd-fonts-DejaVuSansMono ^
-notepadplusplus ^
-nvm ^
-OpenSSL.Light ^
-putty ^
-python3 ^
-rawtherapee ^
-rdcman ^
-rufus ^
-sharpkeys ^
-signal ^
-speccy ^
-starship ^
-sumatrapdf ^
-sysinternals ^
-teamviewer ^
-Temurin17 ^
-thunderbird ^
-vcxsrv ^
-vivaldi ^
-vlc ^
-vscode ^
-WinDirStat ^
-winscp ^
-zotero
+choco install 7zip anytype autohotkey bind-toolsonly chocolatey chocolateygui clink-maintgained cpu-z em-client Everything FiraCode Firefox git github-desktop GoogleChrome googledrive googleearthpro greenshot InkScape irfanview irfanviewplugins josm keepass keepass-plugin-keeagent keepass-plugin-keeautoexec keepass-plugin-keeotp2 keystore-explorer nerd-fonts-DejaVuSansMono notepadplusplus nvm OpenSSL.Light putty python3 rawtherapee rdcman rufus sharpkeys signal speccy starship sumatrapdf sysinternals teamviewer Temurin17 thunderbird vcxsrv vivaldi vlc vscode WinDirStat winscp zotero
 ```
 
 And pinned are these
